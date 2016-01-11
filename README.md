@@ -1,2 +1,7 @@
-# doc
-Project documentation
+# OnDaWay
+
+## Project description
+
+## Goals
+
+
