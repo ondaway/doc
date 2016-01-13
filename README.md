@@ -23,7 +23,7 @@ Existen dos módulos cliente: vehículos y UI.
 
 ## Decisiones
 
-**Elastic** es el servidor de busqueda/index. Es pupular, está maduro y está en producción en muchos sitios. También funciona como base de soluciones para la gestión centralizada de logs. El equipo tiene conocimiento previo. Alternativas es Solr, y otros muchos. También se ha barajado utilizar una base de datos de grafos, pero se ha 
+**Elastic** es el servidor de busqueda/index. Es popular, está maduro y está en producción en muchos sitios. También funciona como base de soluciones para la gestión centralizada de logs. El equipo tiene conocimiento previo. Alternativas es Solr, y otros muchos. También se ha barajado utilizar una base de datos de grafos, pero se ha descartado por ahora.
 
 Algunas de las partes se programarán en **Java 8**, y la JVM como entorno de ejecución. El equipo tiene experiencia, y se quieren aprender nuevas técnicas de programación Java. Otras partes se programarán en **Go**, aprender y mejorar es otro de los objetivos. Alternativas son Scala, Javascript/Node.io, y otros muchos más.
 
