@@ -18,7 +18,7 @@ OnDaWay (On the way, De camino) es una solución de gestión de una'flota de veh
 
 Existen dos módulos cliente: vehículos y UI.
 
-![Diagrama de la solución](images/diagram.png "Diagrama de la solución")
+![Diagrama de la solución](images/OnDaWay_1000metres_solution_diagram.jpeg "Diagrama de la solución")
 
 
 ## Decisiones
