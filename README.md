@@ -67,7 +67,7 @@ El primer núimero entre corchetes es la probabilidad y el segundo el impacto, e
     - [Docker](https://www.docker.com/)
     - [JVM](http://java.com)
     - Event store [PENDIENTE de seleccionar]
-    - [Elastic](https://www.elastic.co/)
+    - Índice de búsqueda y logs [PENDIENTE de seleccionar]
   - Lenguajes de programación
     - [Java](http://java.com)
     - [Go](https://golang.org/)
